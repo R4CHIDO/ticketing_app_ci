@@ -1,0 +1,30 @@
+1-change status for infinished tickets 
+2-add comment for tasks
+3-add filtering features to the tickets
+4-add admin session
+5-display all tickets for admin 
+done
+-create tables for log session .done
+-edit login method for logs . client&techncien done
+-edit create method for logs . client   done
+-edit logout method . client&techncien. done
+-edit update method for the technicien.  done
+
+
+tasks for today:  done
+ajouter une pagination pour tous les dashboards .
+essayer de trouver tous les senario possibles qui peuvent conduire à un bug dans l’application et les corriger : l'ajouts des filters
+ajouter des filtres pour protecter les droits des utilisateurs.
+
+tasks for today :
+ajouter une possibilite à l'admin pour creer un technicien. done
+ajouter un interface pour les categorie des technicien. done
+ajouter une possibilite d'ajouter une categorie. done
+l'admin peut modifier la specialité d'un technicien 
+l'admin peut affecté une specialité à un technicien qui n'a pas une catégorie.
+
+tasks for today :
+add catregorie to admin  session 
+finish the admin session than add possibility for admin to activate user account
+Administrateur Nombre des sessions Ouverts
+
